@@ -1,0 +1,77 @@
+package CamHacks;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.PrintStream;
+import java.util.ArrayList;
+import java.util.List;
+
+import com.google.api.gax.paging.Page;
+import com.google.auth.oauth2.ComputeEngineCredentials;
+import com.google.auth.oauth2.GoogleCredentials;
+import com.google.cloud.storage.Bucket;
+import com.google.cloud.storage.Storage;
+import com.google.cloud.storage.StorageOptions;
+import com.google.cloud.vision.v1.AnnotateImageRequest;
+import com.google.cloud.vision.v1.AnnotateImageResponse;
+import com.google.cloud.vision.v1.BatchAnnotateImagesResponse;
+import com.google.cloud.vision.v1.EntityAnnotation;
+import com.google.cloud.vision.v1.Feature;
+import com.google.cloud.vision.v1.Feature.Type;
+import com.google.cloud.vision.v1.Image;
+import com.google.cloud.vision.v1.ImageAnnotatorClient;
+import com.google.protobuf.ByteString;
+
+public class PictureToText {
+	public static void main(String [] args){
+	    PrintStream ps;
+		try {
+			ps = new PrintStream(new File("C:/Users/rrreg/Desktop/Pictures/9/IMG_6025.PNG"));
+			detectText("C:/Users/rrreg/Desktop/Pictures/9/IMG_6025.PNG",ps);
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+	}
+	public static void detectText(String filePath, PrintStream out) throws Exception, IOException {
+		 GoogleCredentials credentials = ComputeEngineCredentials.create();
+		  Storage storage = StorageOptions.newBuilder().setCredentials(credentials).setProjectId("1bcd533a8184c2d6d98f0a1ff66be19ecfd5350d").build().getService();
+
+		  System.out.println("Buckets:");
+		  Page<Bucket> buckets = storage.list();
+		  for (Bucket bucket : buckets.iterateAll()) {
+		    System.out.println(bucket.toString());
+		  }
+		// set GOOGLE_APPLICATION_CREDENTIALS=C:\Users\rrreg\DownloadsSDHacksWebHacks-1bcd533a8184.json
+		List<AnnotateImageRequest> requests = new ArrayList<>();
+
+		  ByteString imgBytes = ByteString.readFrom(new FileInputStream(filePath));
+
+		  Image img = Image.newBuilder().setContent(imgBytes).build();
+		  Feature feat = Feature.newBuilder().setType(Type.TEXT_DETECTION).build();
+		  AnnotateImageRequest request =
+		      AnnotateImageRequest.newBuilder().addFeatures(feat).setImage(img).build();
+		  requests.add(request);
+
+		  try (ImageAnnotatorClient client = ImageAnnotatorClient.create()) {
+		    BatchAnnotateImagesResponse response = client.batchAnnotateImages(requests);
+		    List<AnnotateImageResponse> responses = response.getResponsesList();
+
+		    for (AnnotateImageResponse res : responses) {
+		      if (res.hasError()) {
+		        out.printf("Error: %s\n", res.getError().getMessage());
+		        return;
+		      }
+
+		      // For full list of available annotations, see http://g.co/cloud/vision/docs
+		      for (EntityAnnotation annotation : res.getTextAnnotationsList()) {
+		        out.printf("Text: %s\n", annotation.getDescription());
+		        out.printf("Position : %s\n", annotation.getBoundingPoly());
+		      }
+		    }
+		  }
+		}
+}

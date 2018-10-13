@@ -1,0 +1,2407 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cc5e623d1545637f27e9ac74100126ea9c158840",
+    "jarFileModificationDate": "2018-06-11T17:58:55.849-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libfreenect",
+    "version": {
+      "major": 0,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "091d34bbbe220d7b1aeeacc306acc7914fbf49ff",
+    "jarFileModificationDate": "2018-10-13T08:36:20.346-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libfreenect-linux-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "72c1403ef99e74a9aead254806adbbca68e731a3",
+    "jarFileModificationDate": "2018-06-11T17:59:24.618-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "flandmark-windows-x86_64",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f9c11b6a1ed919494ac074518c1faedcf8c78ec",
+    "jarFileModificationDate": "2018-10-13T08:35:11.520-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark-windows-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "proto-google-iam-v1-0.1.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4f53bda22480be750a9944feab3fd329e9199d0b",
+    "jarFileModificationDate": "2018-10-13T03:07:05.032-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\proto-google-iam-v1-0.1.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libdc1394",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "3f8fce4947d727fcc228335fa30718beba2909af",
+    "jarFileModificationDate": "2018-10-13T08:34:35.504-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libdc1394-linux-armhf.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e813b8722c387b22e1adccf7914729db09bcb4a9",
+    "jarFileModificationDate": "2018-10-13T03:06:43.516-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\httpcore-4.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "565d9ff1660f5fe2b406c97ba2894b446ae26a97",
+    "jarFileModificationDate": "2018-10-13T08:35:53.537-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\javacpp.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.librealsense",
+    "version": {
+      "major": 1,
+      "minor": 9,
+      "micro": 6,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "29ab56c862879f1f3096a995f54ab2e5f99d1941",
+    "jarFileModificationDate": "2018-10-13T08:34:46.689-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\librealsense-linux-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava.jdk5",
+    "version": {
+      "major": 17,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "463f8378feba44df7ba7cd9272d01837dad62b36",
+    "jarFileModificationDate": "2018-10-13T03:49:23.383-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\guava-jdk5-17.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libfreenect-platform",
+    "version": {
+      "major": 0,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "47567d94f4a2660d630dccf75568de651f4c483b",
+    "jarFileModificationDate": "2018-10-13T08:34:43.097-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libfreenect-platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-api-services-storage-v1-rev100-1.22.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "deb780618bf92af35eb6bf4e6ea5709b895538de",
+    "jarFileModificationDate": "2018-10-13T03:06:16.221-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-api-services-storage-v1-rev100-1.22.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "json",
+    "version": {
+      "major": 20160810,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "aca5eb39e2a12fddd6c472b240afe9ebea3a6733",
+    "jarFileModificationDate": "2018-10-13T03:06:51.583-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\json-20160810.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "831fa2a147f2856beb1738258f4479d9bff51478",
+    "jarFileModificationDate": "2018-06-19T12:14:55.441-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\commons-io-2.6-test-sources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.librealsense-platform",
+    "version": {
+      "major": 1,
+      "minor": 9,
+      "micro": 6,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "524209886687e966cee1b78280f6668c9f5e357c",
+    "jarFileModificationDate": "2018-10-13T08:35:57.216-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\librealsense-platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "videoinput-platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c28c1901a4c3414ba96952ea25d2a9489daf8c04",
+    "jarFileModificationDate": "2018-10-13T08:35:47.905-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\videoinput-platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libfreenect",
+    "version": {
+      "major": 0,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "79e99f786755717c7805b6c642733b504658bda3",
+    "jarFileModificationDate": "2018-10-13T08:36:23.090-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libfreenect-windows-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "391fd8b3d30b2c04f58e3cd19edd1c234656da12",
+    "jarFileModificationDate": "2018-10-13T08:34:58.427-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv-windows-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libfreenect",
+    "version": {
+      "major": 0,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "c26ee6ce1130cae44df79cfbad03c202e1965eaf",
+    "jarFileModificationDate": "2018-10-13T08:36:25.189-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libfreenect-windows-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.cloud.google-cloud-core",
+    "version": {
+      "major": 1,
+      "minor": 48,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba91e8ee8f53acd1f49a66b8ccaecde3bb7d76ad",
+    "jarFileModificationDate": "2018-10-13T02:25:34.905-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\google-cloud-core-1.48.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 7,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "751f548c85fa49f330cecbb1875893f971b33c4e",
+    "jarFileModificationDate": "2018-10-13T03:06:27.267-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\gson-2.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "65a0880fd927fe901cead47b9c4be9ae76a28764",
+    "jarFileModificationDate": "2018-10-13T08:36:28.496-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg-android-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "flandmark-android-x86",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "57cd5fcd73d1aaed0b4dbe34754d8634879b79f9",
+    "jarFileModificationDate": "2018-10-13T08:36:21.362-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark-android-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2f3ac13de484bd3bffdf44d642ba39ce43f01cd6",
+    "jarFileModificationDate": "2018-06-11T17:59:24.860-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "opencensus-contrib-grpc-metrics-0.12.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a4c7ff238a91b901c8b459889b6d0d7a9d889b4d",
+    "jarFileModificationDate": "2018-10-13T02:26:42.584-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\opencensus-contrib-grpc-metrics-0.12.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.auth.google-auth-library-credentials",
+    "version": {
+      "major": 0,
+      "minor": 11,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "75f79364e9d4977c6462446fcccf83d2f6eeb69f",
+    "jarFileModificationDate": "2018-10-13T02:25:32.739-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\google-auth-library-credentials-0.11.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "e66470f99d1a30ffc2d1786390a360734484bab2",
+    "jarFileModificationDate": "2018-10-13T08:36:07.617-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus-windows-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libdc1394",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "a5082a92b3ed2963ec95518e48e445572e89863e",
+    "jarFileModificationDate": "2018-10-13T08:35:15.765-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libdc1394-windows-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c423fb190b0b7dbc03d6210c4310aa84e4aa1399",
+    "jarFileModificationDate": "2018-06-11T17:58:55.849-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.logging",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4bfc12adfe4842bf07b657f0369c4cb522955686",
+    "jarFileModificationDate": "2018-10-13T02:25:27.950-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\commons-logging-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2018-10-13T03:06:12.807-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-http-client-jackson2-1.19.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "81dbf9795d387d5e80e55346582d5f2fb81a42eb",
+    "jarFileModificationDate": "2018-10-13T03:06:24.888-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-http-client-jackson2-1.19.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libdc1394",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "0efcde0e313046875801ec388a10930c4cc285ba",
+    "jarFileModificationDate": "2018-10-13T08:35:10.864-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libdc1394-linux-ppc64le.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 20,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "89507701249388e1ed5ddcf8c41f4ce1be7831ef",
+    "jarFileModificationDate": "2018-10-13T02:26:25.909-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\guava-20.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4f6f4e88485698df13039c00fd1384dce63bc61c",
+    "jarFileModificationDate": "2018-06-11T17:58:55.771-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "grpc-protobuf-lite-1.13.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6ca13585100ad99e1c6140a7c8138dd96596aaf5",
+    "jarFileModificationDate": "2018-10-13T02:26:06.989-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\grpc-protobuf-lite-1.13.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "e3c5702e51271fdaa6dbf589981e36071a1727ef",
+    "jarFileModificationDate": "2018-10-13T08:35:13.554-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg-linux-armhf.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.flycapture",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 3,
+      "qualifier": "43-1.3"
+    },
+    "jarFileFingerprint": "048784df3fd2cc5aabc98e48588af2b8ba926249",
+    "jarFileModificationDate": "2018-10-13T08:36:10.648-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flycapture-linux-armhf.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.flycapture",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 3,
+      "qualifier": "43-1.3"
+    },
+    "jarFileFingerprint": "bb48ed01be621b6b38b91d45a96e68e7ad7bf25e",
+    "jarFileModificationDate": "2018-10-13T08:34:34.283-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flycapture.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "815893df5f31da2ece4040fe0a12fd44b577afaf",
+    "jarFileModificationDate": "2018-06-18T14:38:51.602-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\commons-io-2.6.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libdc1394",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "e702de628164ba633e77f3b4a4a16a0c402ce364",
+    "jarFileModificationDate": "2018-10-13T08:35:32.939-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libdc1394.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "flandmark-linux-armhf",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0e9c2b97b86955440882da49c1b8f3ec2c596ea4",
+    "jarFileModificationDate": "2018-10-13T08:36:23.730-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark-linux-armhf.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "0ac8412b2560cc76feac99651da53aa571eae179",
+    "jarFileModificationDate": "2018-10-13T08:34:41.049-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv-linux-armhf.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6452df62bdd2aa95350f178b87d663e247d53676",
+    "jarFileModificationDate": "2018-06-11T17:58:55.833-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "5eb6e02cec97b449d640e6e933e43498ae1603ee",
+    "jarFileModificationDate": "2018-10-13T08:35:56.607-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg-macosx-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.cloud.google-cloud-vision",
+    "version": {
+      "major": 1,
+      "minor": 48,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "11754dae86bb2c7865c74ac710c59a550ccf67d5",
+    "jarFileModificationDate": "2018-10-13T02:25:36.537-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\google-cloud-vision-1.48.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "815893df5f31da2ece4040fe0a12fd44b577afaf",
+    "jarFileModificationDate": "2018-06-18T14:38:51.602-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\commons-io-2.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "6a1180da1c0ba0cc436cc55cd2577eac6489681f",
+    "jarFileModificationDate": "2018-10-13T08:35:46.602-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg-linux-ppc64le.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.flycapture",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 3,
+      "qualifier": "43-1.3"
+    },
+    "jarFileFingerprint": "f7a3cf57f4f6649c545fbac816dcd77a463cce63",
+    "jarFileModificationDate": "2018-10-13T08:36:11.360-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flycapture-linux-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.protobuf.util",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35f62815e87c32b01bf1ed8c5aa3f9e33a08c2f3",
+    "jarFileModificationDate": "2018-10-13T02:26:49.475-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\protobuf-java-util-3.6.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.auth.google-auth-library-oauth2-http",
+    "version": {
+      "major": 0,
+      "minor": 6,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fc15f9dab565d31dcc83fce9410c03d011457723",
+    "jarFileModificationDate": "2018-10-13T03:06:17.392-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-auth-library-oauth2-http-0.6.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-core",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6c3aed1cdfa21b5c1737c915186ea93a95a58bd",
+    "jarFileModificationDate": "2018-10-13T03:49:28.805-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\jackson-core-2.1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus-platform",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "7fbd6c72f659c0c83613f9c22596a194a8042e76",
+    "jarFileModificationDate": "2018-10-13T08:34:14.905-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus-platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libdc1394",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "f1498dacc46162ab68faeb8d66cf02b96fe41c61",
+    "jarFileModificationDate": "2018-10-13T08:35:03.654-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libdc1394-macosx-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e813b8722c387b22e1adccf7914729db09bcb4a9",
+    "jarFileModificationDate": "2018-10-13T03:49:27.161-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\httpcore-4.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-api-services-vision-v1-rev22-1.22.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c86f39a766f3c7e1fec7118dd41daef729f6c9b6",
+    "jarFileModificationDate": "2018-10-13T03:49:07.656-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\google-api-services-vision-v1-rev22-1.22.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.flycapture",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 3,
+      "qualifier": "43-1.3"
+    },
+    "jarFileFingerprint": "ee7052e41eb4cbadf73846639de827a697a8afc7",
+    "jarFileModificationDate": "2018-10-13T08:35:31.124-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flycapture-windows-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "videoinput-windows-x86",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8a7d869eb2bbda856e5fbe3b850f7763c17b771",
+    "jarFileModificationDate": "2018-10-13T08:34:44.299-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\videoinput-windows-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "38ce4d06c1917fa2f2b1dde31bd111223ac7a551",
+    "jarFileModificationDate": "2018-06-19T12:14:42.677-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\commons-io-2.6-javadoc.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 4,
+      "micro": 6,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e3fd8ced1f52c7574af952e2e6da0df8df08eb82",
+    "jarFileModificationDate": "2018-10-13T02:26:32.414-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\httpcore-4.4.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "8f92ca55f5b735fe58bd866c907da43ee3f0479a",
+    "jarFileModificationDate": "2018-10-13T08:35:30.304-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg-windows-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "flandmark-android-arm",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7077b116f0a63e3af8b776a3053e405f3a47b57a",
+    "jarFileModificationDate": "2018-10-13T08:35:09.303-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark-android-arm.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "flandmark-windows-x86",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4436072cf507a4622cf33ba1e11415585aad9309",
+    "jarFileModificationDate": "2018-10-13T08:36:08.253-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark-windows-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gax-1.32.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6ca9401a28aeadfb766938fdc3b8e7edde74b531",
+    "jarFileModificationDate": "2018-10-13T02:25:30.963-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\gax-1.32.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jackson-core-asl",
+    "version": {
+      "major": 1,
+      "minor": 9,
+      "micro": 11,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e32303ef8bd18a5c9272780d49b81c95e05ddf43",
+    "jarFileModificationDate": "2018-10-13T03:06:46.157-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\jackson-core-asl-1.9.11.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "flandmark-linux-x86_64",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8b6dfbcf12d6cf68490b2358b929bda1853aaec6",
+    "jarFileModificationDate": "2018-10-13T08:36:26.688-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark-linux-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9ce04e34240f674bc72680f8b843b1457383161a",
+    "jarFileModificationDate": "2018-10-13T02:25:27.279-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\commons-codec-1.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "e4beb5534e24e705c08c65fc2e65142cf4ab3b4a",
+    "jarFileModificationDate": "2018-10-13T08:35:37.378-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv-linux-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.cloud.google-cloud-core-grpc",
+    "version": {
+      "major": 1,
+      "minor": 48,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0344aa677b890f68aa6fa1eb7522bb396437a3c8",
+    "jarFileModificationDate": "2018-10-13T02:25:35.412-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\google-cloud-core-grpc-1.48.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2018-10-13T03:49:04.720-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.cloud.google-cloud-core-http",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5ddd0ee15f9a130be014308f571c070b59b216dd",
+    "jarFileModificationDate": "2018-10-13T03:06:19.329-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-cloud-core-http-1.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-api-client-1.22.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0244350c0c845c583717ade13f5666a452fd0cfa",
+    "jarFileModificationDate": "2018-10-13T03:49:06.927-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\google-api-client-1.22.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "flandmark-linux-x86",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7bb6b4250a0a97136e511198e7d3ba04a24ecac2",
+    "jarFileModificationDate": "2018-10-13T08:36:09.088-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark-linux-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.errorprone.error_prone_annotations",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6dcc08f90f678ac33e5ef78c3c752b6f59e63e0c",
+    "jarFileModificationDate": "2018-10-13T02:25:28.522-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\error_prone_annotations-2.1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "a529ed8c20539530ca4f422b0567fa03e7bf0b44",
+    "jarFileModificationDate": "2018-10-13T08:36:01.849-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg-android-arm.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.cloud.google-cloud-storage",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e7a415667ac97bc91467e7dcff71c908a457a9c1",
+    "jarFileModificationDate": "2018-10-13T03:06:21.095-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-cloud-storage-1.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.http-client.google-http-client",
+    "version": {
+      "major": 1,
+      "minor": 24,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "396eac8d3fb1332675f82b208f48a469d64f3b4a",
+    "jarFileModificationDate": "2018-10-13T02:25:39.507-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\google-http-client-1.24.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bf1c817820341a246f7130fe046e8310b03d04f6",
+    "jarFileModificationDate": "2018-06-11T17:58:55.833-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "848d352b867bf2c6d94c482ab694c504eaeef9d9",
+    "jarFileModificationDate": "2018-10-13T08:36:04.661-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv-android-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "3d455d0c218e90072827d5b22b4163b1eea323e9",
+    "jarFileModificationDate": "2018-10-13T08:36:41.814-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv-windows-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-http-client-jackson-1.21.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5a8b90f8e128d28f88a301a4c5ff7c2336dcc725",
+    "jarFileModificationDate": "2018-10-13T03:06:24.263-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-http-client-jackson-1.21.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.flycapture",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 3,
+      "qualifier": "43-1.3"
+    },
+    "jarFileFingerprint": "a910fbcfc95f415abe3a70ac417255d24d111470",
+    "jarFileModificationDate": "2018-10-13T08:34:53.685-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flycapture-linux-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "e9c3116686eb5a033d2870ff59b7dd8abf3f2817",
+    "jarFileModificationDate": "2018-10-13T08:34:50.837-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv-linux-ppc64le.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "6d6b66f9ae33bc63f520c8e2f2f8a68845df1bbc",
+    "jarFileModificationDate": "2018-10-13T08:35:54.127-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus-linux-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libfreenect",
+    "version": {
+      "major": 0,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "f2b0ede9e7576da5d7ad3aee87835043116eeaf0",
+    "jarFileModificationDate": "2018-10-13T08:36:05.485-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libfreenect-linux-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gax-grpc-1.32.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7771a353e18653fc9e500058b3482e90fc72474a",
+    "jarFileModificationDate": "2018-10-13T02:25:32.098-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\gax-grpc-1.32.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1577ae15f01ef5438c5afc62162457c00a34713",
+    "jarFileModificationDate": "2018-10-13T02:26:29.858-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\httpclient-4.5.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gax-1.0.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6eae8671efe0c22019fc36dee7cc2e87587a6cd0",
+    "jarFileModificationDate": "2018-10-13T03:06:13.813-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\gax-1.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.librealsense",
+    "version": {
+      "major": 1,
+      "minor": 9,
+      "micro": 6,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "7086a3df4fbcbd3ac8e13bc5fedc36eaca95f100",
+    "jarFileModificationDate": "2018-10-13T08:34:13.696-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\librealsense-linux-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "88ff4c9e804f3667f111a38aad7342f865400710",
+    "jarFileModificationDate": "2018-10-13T08:36:09.840-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus-macosx-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1d7d28fa738bdbfe4fbd895d9486308999bdf440",
+    "jarFileModificationDate": "2018-10-13T03:06:41.767-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\httpclient-4.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "2b506fefac100e50800bb1b5908d7588ab21fb45",
+    "jarFileModificationDate": "2018-10-13T08:36:16.393-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "50822aed35363526eadeb83675aa3e7946558548",
+    "jarFileModificationDate": "2018-06-11T17:58:55.818-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jsr305-3.0.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5871fb60dc68d67da54a663c3fd636a10a532948",
+    "jarFileModificationDate": "2018-10-13T03:06:52.516-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\jsr305-3.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacv",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba60e1c2636dacd9f2ed67cb83c948c125dfc9c9",
+    "jarFileModificationDate": "2018-10-13T08:35:23.542-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\javacv.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "42dd8b09b8389cc46c862eb04eb5ce92f24db98c",
+    "jarFileModificationDate": "2018-10-13T08:35:08.634-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv-android-arm.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "opencensus-api-0.12.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "743f074095f29aa985517299545e72cc99c87de0",
+    "jarFileModificationDate": "2018-10-13T02:26:42.116-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\opencensus-api-0.12.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.protobuf",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "62ccf171a106ff6791507f2d5364c275f9a3131d",
+    "jarFileModificationDate": "2018-10-13T03:06:57.454-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\protobuf-java-3.2.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "896d975d9062946b13eb9001e49dd9dbc3dbd098",
+    "jarFileModificationDate": "2018-06-11T17:58:55.833-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "ae19e668754f80bc451d28d07c916d55f5d05fd8",
+    "jarFileModificationDate": "2018-10-13T08:36:38.570-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "54f8aac48a5821e2916155cd4dfbd02b9e6705c9",
+    "jarFileModificationDate": "2018-06-11T17:59:24.681-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "google-oauth-client-1.21.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "61ec42bbfc51aafde5eb8b4923c602c5b5965bc2",
+    "jarFileModificationDate": "2018-10-13T03:06:25.659-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-oauth-client-1.21.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b3fb338000215b94059661a21d5841b7ce30122c",
+    "jarFileModificationDate": "2018-06-11T17:59:24.769-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.protobuf",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0d06d46ecfd92ec6d0f3b423b4cd81cb38d8b924",
+    "jarFileModificationDate": "2018-10-13T02:26:48.587-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\protobuf-java-3.6.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv-platform",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "f61c8d53c5e244e6cf2285125e3344932dc941e7",
+    "jarFileModificationDate": "2018-10-13T08:35:58.770-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv-platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.cloud.google-cloud-core",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a204545d321c4f1688d9c377cdd88310884842f4",
+    "jarFileModificationDate": "2018-10-13T03:06:18.665-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-cloud-core-1.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "ab93f220341d6287018be2a6164b51574383361a",
+    "jarFileModificationDate": "2018-10-13T08:36:39.170-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus-linux-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libfreenect",
+    "version": {
+      "major": 0,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "736d65a3ef042258429d8e7742128c411806b432",
+    "jarFileModificationDate": "2018-10-13T08:35:14.869-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libfreenect-macosx-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "740e5f472416ef1afb09432668646d653fbdd637",
+    "jarFileModificationDate": "2018-06-19T12:14:54.283-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\commons-io-2.6-tests.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "grpc-core-1.13.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "74f5300e1e4d5c2abc0e4fc927d24f4f593c5a7d",
+    "jarFileModificationDate": "2018-10-13T02:25:46.937-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\grpc-core-1.13.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "caa5c6675ad573ce4ee4ade2501556fa467d489a",
+    "jarFileModificationDate": "2018-10-13T08:34:20.329-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg-windows-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2566800dc841d9d2c5a0d34d807e45d4107dbbdf",
+    "jarFileModificationDate": "2018-06-19T12:14:52.345-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\commons-io-2.6-sources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.api.grpc.proto-google-cloud-vision-v1",
+    "version": {
+      "major": 1,
+      "minor": 30,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "26918e08a7d88ff71fe5283d9b60dbaade3d484c",
+    "jarFileModificationDate": "2018-10-13T02:26:51.913-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\proto-google-cloud-vision-v1-1.30.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "joda-time",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "36d6e77a419cb455e6fd5909f6f96b168e21e9d0",
+    "jarFileModificationDate": "2018-10-13T03:06:50.751-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\joda-time-2.9.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.protobuf.util",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "25ec9bf5bb119978c514b46f568bed896c5a4a8b",
+    "jarFileModificationDate": "2018-10-13T03:06:58.222-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\protobuf-java-util-3.2.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.api.grpc.proto-google-cloud-vision-v1p3beta1",
+    "version": {
+      "major": 0,
+      "minor": 31,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc9f0958b6adffd68d422fea6f9d0b08433c91d8",
+    "jarFileModificationDate": "2018-10-13T02:27:00.674-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\proto-google-cloud-vision-v1p3beta1-0.31.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.threeten.bp",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3ea31c96676ff12ab56be0b1af6fff61d1a4f1f2",
+    "jarFileModificationDate": "2018-10-13T02:27:08.599-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\threetenbp-1.3.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "proto-google-common-protos-1.12.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1140cc74df039deb044ed0e320035e674dc13062",
+    "jarFileModificationDate": "2018-10-13T02:27:05.288-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\proto-google-common-protos-1.12.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "flandmark-macosx-x86_64",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "31eb6cd9dff3e1945066d237d279718f58788715",
+    "jarFileModificationDate": "2018-10-13T08:34:59.533-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark-macosx-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "joda-time",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "36d6e77a419cb455e6fd5909f6f96b168e21e9d0",
+    "jarFileModificationDate": "2018-10-13T02:26:39.231-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\joda-time-2.9.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-core",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "aed20e50152a2f19adc1995c8d8f307c7efa414d",
+    "jarFileModificationDate": "2018-10-13T02:26:33.884-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\jackson-core-2.9.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-http-client-1.21.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42631630fe1276d4d6d6397bb07d53a4e4fec278",
+    "jarFileModificationDate": "2018-10-13T03:06:23.095-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-http-client-1.21.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1d7d28fa738bdbfe4fbd895d9486308999bdf440",
+    "jarFileModificationDate": "2018-10-13T03:49:25.536-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\httpclient-4.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libfreenect",
+    "version": {
+      "major": 0,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "9f7e2f3cb8c9db5bd152181381788986c3c1833c",
+    "jarFileModificationDate": "2018-10-13T08:35:27.920-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libfreenect-linux-ppc64le.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-http-client-appengine-1.21.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7244bd3c110b15066f4288baa61e350d6a14120c",
+    "jarFileModificationDate": "2018-10-13T03:06:23.704-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-http-client-appengine-1.21.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0e8f1fdf297d2504356a4a8f8c8d04c63d88c716",
+    "jarFileModificationDate": "2018-06-11T17:58:55.883-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "google-http-client-jackson2-1.22.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cc014d64ae11117e159d334c99d9c246d9b36f44",
+    "jarFileModificationDate": "2018-10-13T03:49:10.497-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\google-http-client-jackson2-1.22.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "543bf47572afc2f02c30f125d77019b1306e82d1",
+    "jarFileModificationDate": "2018-10-13T08:36:17.741-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libdc1394",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "59048b9e6b9c27dd746d09fba49d045328e09ced",
+    "jarFileModificationDate": "2018-10-13T08:36:06.145-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libdc1394-linux-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "api-common-1.0.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c850c6ad8fc6cd0b8cc25c75bfe9dd7b37ac2707",
+    "jarFileModificationDate": "2018-10-13T03:06:02.563-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\api-common-1.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "proto-google-common-protos-0.1.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3760f6a6e13c8ab070aa629876cdd183614ee877",
+    "jarFileModificationDate": "2018-10-13T03:07:04.064-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\proto-google-common-protos-0.1.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-api-client-1.21.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc",
+    "jarFileModificationDate": "2018-10-13T03:06:15.126-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-api-client-1.21.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2018-10-13T03:49:05.471-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "3ed086a9ca3e71213e1775852bbd69efe0e62dd8",
+    "jarFileModificationDate": "2018-10-13T08:36:24.481-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus-android-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libdc1394-platform",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "e7af83441980118e41dbbb265a7ddf0087e8dc83",
+    "jarFileModificationDate": "2018-10-13T08:35:54.828-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libdc1394-platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.auth.google-auth-library-oauth2-http",
+    "version": {
+      "major": 0,
+      "minor": 11,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "576d6ae74c10e6a0d3f30a97ef59499473b02175",
+    "jarFileModificationDate": "2018-10-13T02:25:33.634-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\google-auth-library-oauth2-http-0.11.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.flycapture-platform",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 3,
+      "qualifier": "43-1.3"
+    },
+    "jarFileFingerprint": "272d5e7a97b2f076aab7e2d5c774b5ad1a90645e",
+    "jarFileModificationDate": "2018-10-13T08:34:41.961-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flycapture-platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "grpc-auth-1.13.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "096327e5774b7e0ed7f47043af9ff4fbc7f00f36",
+    "jarFileModificationDate": "2018-10-13T02:25:40.684-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\grpc-auth-1.13.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacv-platform",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "44dc6ce4d81514eb557889ff8028f241aa58928f",
+    "jarFileModificationDate": "2018-10-13T08:35:10.186-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\javacv-platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jctools.jctools-core",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ccdc4f2c2791d93164c574fbfb90d614aa0849ae",
+    "jarFileModificationDate": "2018-10-13T02:26:06.052-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\grpc-netty-shaded-1.13.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "flandmark-linux-ppc64le",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cdc0a47898965737e702b21d446f0c3992800c98",
+    "jarFileModificationDate": "2018-10-13T08:36:17.001-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark-linux-ppc64le.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.auth.google-auth-library-credentials",
+    "version": {
+      "major": 0,
+      "minor": 6,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "eeedb1d519e0b26e36bb80aabe20dd6bc5ca9990",
+    "jarFileModificationDate": "2018-10-13T03:06:16.768-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\google-auth-library-credentials-0.6.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "17a6578e0a8d53f9af74da986fd62aea050764c9",
+    "jarFileModificationDate": "2018-10-13T08:35:34.897-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus-windows-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3b9dc47d13184c0dc8e46e39b8c254a39a251af",
+    "jarFileModificationDate": "2018-06-11T17:58:55.914-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.api.grpc.proto-google-cloud-vision-v1p2beta1",
+    "version": {
+      "major": 1,
+      "minor": 30,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6988faad119617aeaf9b227cef2ccd62928da1e4",
+    "jarFileModificationDate": "2018-10-13T02:26:56.505-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\proto-google-cloud-vision-v1p2beta1-1.30.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fd32786786e2adb664d5ecc965da47629dca14ba",
+    "jarFileModificationDate": "2018-10-13T03:06:12.049-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\commons-codec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-http-client-jackson2-1.24.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2ad1dffd8a450055e68d8004fe003033b751d761",
+    "jarFileModificationDate": "2018-10-13T02:25:40.105-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\google-http-client-jackson2-1.24.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "14254e03cdfdb5d1c9b4bbc778240582be998024",
+    "jarFileModificationDate": "2018-10-13T08:36:19.518-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg-linux-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "flandmark-platform",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d336c20a66e534f93270a6eecfaa8f9845ae423",
+    "jarFileModificationDate": "2018-10-13T08:34:52.831-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark-platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "08a3b243e094a7435bd87eb0ecf53f34766961a8",
+    "jarFileModificationDate": "2018-10-13T08:35:02.624-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv-linux-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bb80059de67d2c265c4cc1c7a713ae85f2f56c71",
+    "jarFileModificationDate": "2018-06-11T17:58:55.771-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 19,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9",
+    "jarFileModificationDate": "2018-10-13T03:06:39.751-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\guava-19.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.opencv",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "160f8eefa87738a2e3a60cdd8f9ad9daf4e0f5f7",
+    "jarFileModificationDate": "2018-10-13T08:35:40.378-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\opencv-macosx-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "64a8875cc7a993e690343d72e99aaa71bd368999",
+    "jarFileModificationDate": "2018-06-11T17:58:55.771-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "videoinput",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f30b2cba25b56af3a60a679775016537fda37c41",
+    "jarFileModificationDate": "2018-10-13T08:35:34.221-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\videoinput.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "proto-google-iam-v1-0.12.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ea312c0250a5d0a7cdd1b20bc2c3259938b79855",
+    "jarFileModificationDate": "2018-10-13T02:27:06.169-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\proto-google-iam-v1-0.12.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-core",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6c3aed1cdfa21b5c1737c915186ea93a95a58bd",
+    "jarFileModificationDate": "2018-10-13T03:06:44.689-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\jackson-core-2.1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libfreenect",
+    "version": {
+      "major": 0,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "4f68041b0f36e1dddeac4a800165380a0e12ba5e",
+    "jarFileModificationDate": "2018-10-13T08:35:24.333-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libfreenect-linux-armhf.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-http-client-1.22.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d441fc58329c4a4c067acec04ac361627f66ecc8",
+    "jarFileModificationDate": "2018-10-13T03:49:10.037-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\google-http-client-1.22.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jsr305-1.3.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf",
+    "jarFileModificationDate": "2018-10-13T03:49:29.895-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\jsr305-1.3.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.threeten.bp",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3ea31c96676ff12ab56be0b1af6fff61d1a4f1f2",
+    "jarFileModificationDate": "2018-10-13T03:07:07.282-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\threetenbp-1.3.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "videoinput-windows-x86_64",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "766e2b42cab04f50e90deb20bd088e1c52baf365",
+    "jarFileModificationDate": "2018-10-13T08:35:57.889-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\videoinput-windows-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jsr-305",
+    "version": {
+      "major": 3,
+      "minor": 0,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "25ea2e8b0c338a877313bd4672d3fe056ea78f0d",
+    "jarFileModificationDate": "2018-10-13T02:26:40.037-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\jsr305-3.0.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "api-common-1.7.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ea59fb8b2450999345035dec8a6f472543391766",
+    "jarFileModificationDate": "2018-10-13T02:25:24.715-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\api-common-1.7.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "grpc-context-1.13.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8d8407217ffe43996700f667fa1f6bee0a8c19a",
+    "jarFileModificationDate": "2018-10-13T02:25:41.334-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\grpc-context-1.13.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "flandmark",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e5cd132c846b296edc8eee43c596583adfd151de",
+    "jarFileModificationDate": "2018-10-13T08:36:26.075-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flandmark.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libdc1394",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "495751972d63027d7bf072510bddc41af8dbee14",
+    "jarFileModificationDate": "2018-10-13T08:34:52.138-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libdc1394-linux-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "auto-value-1.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6951c141ea3e89c0f8b01da16834880a1ebf162",
+    "jarFileModificationDate": "2018-10-13T03:06:11.401-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\cloud storage\\auto-value-1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "e64e1e1afad295ef1e043542353193643d520c6e",
+    "jarFileModificationDate": "2018-10-13T08:36:06.889-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus-android-arm.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "1eb9f01cdc1a2034681f4c9d2c0ab62f457d3ccb",
+    "jarFileModificationDate": "2018-10-13T08:36:22.318-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus-linux-ppc64le.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "grpc-stub-1.13.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2fc6e85e459ac522a3d81a78add8b6695f7525f1",
+    "jarFileModificationDate": "2018-10-13T02:26:07.662-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\grpc-stub-1.13.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "91d2f8c231c0565fcee28d0115701f04bdd42178",
+    "jarFileModificationDate": "2018-06-11T17:58:55.883-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libfreenect",
+    "version": {
+      "major": 0,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "ea7981fbc3eba3cf3d8c1b8492d1952b85d20068",
+    "jarFileModificationDate": "2018-10-13T08:35:44.248-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libfreenect.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.libdc1394",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "67d0185734f0e0286eb523b3a9f0a8474dd7434a",
+    "jarFileModificationDate": "2018-10-13T08:35:04.559-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\libdc1394-windows-x86_64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "ead334203e242ac263cbf576cd2aa8b003227958",
+    "jarFileModificationDate": "2018-10-13T08:35:26.376-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg-linux-x86.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-oauth-client-1.22.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1d63f369ac78e4838a3197147012026e791008cb",
+    "jarFileModificationDate": "2018-10-13T03:49:11.514-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\New folder\\google-oauth-client-1.22.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.artoolkitplus",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "123b76bf91daae7d25f2ff1402bd14cb6b77bde1",
+    "jarFileModificationDate": "2018-10-13T08:34:45.960-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\artoolkitplus-linux-armhf.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.api.grpc.proto-google-cloud-vision-v1p1beta1",
+    "version": {
+      "major": 0,
+      "minor": 31,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e74c1beec43d52524325af1955cf047f549d129a",
+    "jarFileModificationDate": "2018-10-13T02:26:53.928-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\proto-google-cloud-vision-v1p1beta1-0.31.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.ffmpeg-platform",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "22be9a72bc1928b33af58d508edda98c81d27dd0",
+    "jarFileModificationDate": "2018-10-13T08:35:27.053-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\ffmpeg-platform.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "grpc-protobuf-1.13.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "832f531a79249af2d9c1d50168301ba2bc45b54b",
+    "jarFileModificationDate": "2018-10-13T02:26:06.521-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\grpc-protobuf-1.13.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b353acb4ec416b56875304d4f3b06c500bdd07a4",
+    "jarFileModificationDate": "2018-06-11T17:58:55.833-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7099075c832b62799f0f06db56ea15dd558f1406",
+    "jarFileModificationDate": "2018-06-11T17:58:55.771-07:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.librealsense",
+    "version": {
+      "major": 1,
+      "minor": 9,
+      "micro": 6,
+      "qualifier": "1.3"
+    },
+    "jarFileFingerprint": "a38afba003c895652db9f29f7e014e451a73a0b4",
+    "jarFileModificationDate": "2018-10-13T08:35:42.225-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\librealsense.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 7,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "751f548c85fa49f330cecbb1875893f971b33c4e",
+    "jarFileModificationDate": "2018-10-13T02:26:09.663-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\googlecloudvision\\gson-2.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.bytedeco.javacpp-presets.flycapture",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 3,
+      "qualifier": "43-1.3"
+    },
+    "jarFileFingerprint": "08e7b6cbb4bd4d26e7320ed85c5ca0c71c9704aa",
+    "jarFileModificationDate": "2018-10-13T08:34:16.586-07:00",
+    "location": "C:\\Users\\rrreg\\Downloads\\jars\\javacv-bin\\flycapture-windows-x86.jar",
+    "javaRuntime": false
+  }
+]

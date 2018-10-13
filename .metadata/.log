@@ -1,0 +1,86 @@
+!SESSION 2018-10-13 00:18:18.778 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\rrreg\Desktop\CamHacks -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 02:47:04.208
+!MESSAGE Failed to open search index.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 03:08:38.017
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\cloud storage\auto-value-1.1.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 03:08:38.048
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\cloud storage\google-api-services-storage-v1-rev100-1.22.0.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 03:49:54.192
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\New folder\google-api-services-vision-v1-rev22-1.22.0.jar
+!SESSION 2018-10-13 04:41:44.161 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-10-13 04:41:46.574
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 04:48:49.162
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\cloud storage\auto-value-1.1.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 04:48:49.427
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\cloud storage\google-api-services-storage-v1-rev100-1.22.0.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 04:48:50.304
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\New folder\google-api-services-vision-v1-rev22-1.22.0.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-10-13 08:03:34.468
+!MESSAGE More than one potential match for query +symbolic-names:com.google.gson +classifier:call found. Inconsistency in model store?
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.155
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.159
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark-android-arm.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.163
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark-android-x86.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.167
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark-linux-armhf.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.171
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark-linux-ppc64le.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.175
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark-linux-x86.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.175
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark-linux-x86_64.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.179
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark-macosx-x86_64.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.183
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark-platform.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.207
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark-windows-x86_64.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.211
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\flandmark-windows-x86.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:01.883
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\videoinput.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:02.059
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\videoinput-windows-x86_64.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:02.063
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\videoinput-windows-x86.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-10-13 08:38:02.067
+!MESSAGE Error while extracting name and version from file: C:\Users\rrreg\Downloads\jars\javacv-bin\videoinput-platform.jar
